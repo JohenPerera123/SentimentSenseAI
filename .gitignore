@@ -1,0 +1,55 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+*.env
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+node_modules/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw and processed datasets
+data/raw/
+data/processed/
+
+# Trained models / model checkpoints
+models/
+distilbert_fair_results_imdb/
+distilbert_fair_results_twitter/
+distilbert_results_imdb/
+distilbert_results_twitter/
+
+*.pkl
+*.joblib
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# Hugging Face / ML caches
+.cache/
+huggingface/
+**/.cache/
+
+# Logs / temporary files
+*.log
+*.tmp
+*.temp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

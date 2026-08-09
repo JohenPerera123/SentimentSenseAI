@@ -1,0 +1,41 @@
+dataset,model,feature,weight,sentiment_direction
+Twitter,Logistic Regression,cant wait,2.787571721767487,positive
+Twitter,Logistic Regression,amazing,2.83676460172414,positive
+Twitter,Logistic Regression,nice,2.9292344081158688,positive
+Twitter,Logistic Regression,enjoy,2.9312082492596976,positive
+Twitter,Logistic Regression,no problem,2.9319420516921597,positive
+Twitter,Logistic Regression,cute,2.96202653171623,positive
+Twitter,Logistic Regression,smile,3.0490862451317438,positive
+Twitter,Logistic Regression,cool,3.218778992887372,positive
+Twitter,Logistic Regression,excited,3.4428212139452885,positive
+Twitter,Logistic Regression,great,3.4822705842380426,positive
+Twitter,Logistic Regression,welcome,3.5178702953875023,positive
+Twitter,Logistic Regression,happy,3.6152631367514587,positive
+Twitter,Logistic Regression,good,3.6348940096418274,positive
+Twitter,Logistic Regression,awesome,3.6591565344287953,positive
+Twitter,Logistic Regression,yay,3.7441806764765704,positive
+Twitter,Logistic Regression,not bad,3.822184342594835,positive
+Twitter,Logistic Regression,love,3.910952727750711,positive
+Twitter,Logistic Regression,thank,4.337676418457519,positive
+Twitter,Logistic Regression,can wait,4.682318744449651,positive
+Twitter,Logistic Regression,thanks,4.703404185474692,positive
+Twitter,Logistic Regression,sad,-8.731502227535255,negative
+Twitter,Logistic Regression,wish,-5.704918330837848,negative
+Twitter,Logistic Regression,miss,-5.672319744744365,negative
+Twitter,Logistic Regression,sick,-5.449370435891987,negative
+Twitter,Logistic Regression,can,-4.817481637027232,negative
+Twitter,Logistic Regression,hate,-4.550671240493212,negative
+Twitter,Logistic Regression,hurt,-4.5460285777314935,negative
+Twitter,Logistic Regression,missing,-4.4754288567963805,negative
+Twitter,Logistic Regression,bad,-4.377559891200827,negative
+Twitter,Logistic Regression,not,-4.2501616601246655,negative
+Twitter,Logistic Regression,suck,-4.143220909684526,negative
+Twitter,Logistic Regression,poor,-4.112709848224674,negative
+Twitter,Logistic Regression,no,-4.097007918446682,negative
+Twitter,Logistic Regression,sorry,-3.966416219533143,negative
+Twitter,Logistic Regression,cry,-3.920700268898474,negative
+Twitter,Logistic Regression,missed,-3.889100416102737,negative
+Twitter,Logistic Regression,headache,-3.819074829743839,negative
+Twitter,Logistic Regression,not good,-3.7629253467100057,negative
+Twitter,Logistic Regression,cant,-3.7498044982835324,negative
+Twitter,Logistic Regression,broken,-3.7263539346151875,negative

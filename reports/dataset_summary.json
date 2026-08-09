@@ -1,0 +1,86 @@
+{
+    "datasets": [
+        {
+            "dataset": "IMDb",
+            "rows": 50000,
+            "columns": 2,
+            "column_names": [
+                "text",
+                "sentiment"
+            ],
+            "missing_values": {
+                "text": 0,
+                "sentiment": 0
+            },
+            "duplicate_rows": 418,
+            "duplicate_texts": 418,
+            "label_distribution": {
+                "positive": {
+                    "count": 25000,
+                    "percentage": 50.0
+                },
+                "negative": {
+                    "count": 25000,
+                    "percentage": 50.0
+                }
+            },
+            "text_statistics": {
+                "char_length": {
+                    "min": 32,
+                    "max": 13704,
+                    "mean": 1309.43,
+                    "median": 970.0,
+                    "std": 989.73
+                },
+                "word_count": {
+                    "min": 4,
+                    "max": 2470,
+                    "mean": 231.16,
+                    "median": 173.0,
+                    "std": 171.34
+                }
+            }
+        },
+        {
+            "dataset": "Twitter (50k sample)",
+            "rows": 50000,
+            "columns": 2,
+            "column_names": [
+                "text",
+                "sentiment"
+            ],
+            "missing_values": {
+                "text": 0,
+                "sentiment": 0
+            },
+            "duplicate_rows": 100,
+            "duplicate_texts": 101,
+            "label_distribution": {
+                "positive": {
+                    "count": 25000,
+                    "percentage": 50.0
+                },
+                "negative": {
+                    "count": 25000,
+                    "percentage": 50.0
+                }
+            },
+            "text_statistics": {
+                "char_length": {
+                    "min": 7,
+                    "max": 282,
+                    "mean": 73.97,
+                    "median": 69.0,
+                    "std": 36.43
+                },
+                "word_count": {
+                    "min": 1,
+                    "max": 41,
+                    "mean": 13.15,
+                    "median": 12.0,
+                    "std": 6.96
+                }
+            }
+        }
+    ]
+}

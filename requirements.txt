@@ -1,0 +1,16 @@
+Flask
+Flask-CORS
+SQLAlchemy
+scikit-learn
+pandas
+numpy
+transformers
+torch
+nltk
+matplotlib
+seaborn
+wordcloud
+jupyter
+fastapi
+uvicorn
+pydantic

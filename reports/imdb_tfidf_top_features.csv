@@ -1,0 +1,41 @@
+dataset,model,feature,weight,sentiment_direction
+IMDb,Logistic Regression,enjoyable,3.7303486159426416,positive
+IMDb,Logistic Regression,well,3.767253071480513,positive
+IMDb,Logistic Regression,must see,3.787659851138332,positive
+IMDb,Logistic Regression,definitely,3.816190668499509,positive
+IMDb,Logistic Regression,love,3.817788642242347,positive
+IMDb,Logistic Regression,superb,3.830669522386373,positive
+IMDb,Logistic Regression,today,3.909444321941743,positive
+IMDb,Logistic Regression,enjoyed,4.127863083147789,positive
+IMDb,Logistic Regression,favorite,4.155286552570915,positive
+IMDb,Logistic Regression,hilarious,4.2199921072682365,positive
+IMDb,Logistic Regression,brilliant,4.246433262847544,positive
+IMDb,Logistic Regression,one best,4.349646024477349,positive
+IMDb,Logistic Regression,fun,4.3522615820310735,positive
+IMDb,Logistic Regression,loved,4.460089678465866,positive
+IMDb,Logistic Regression,wonderful,4.852814842192701,positive
+IMDb,Logistic Regression,best,4.858830690519546,positive
+IMDb,Logistic Regression,amazing,4.9162235403659205,positive
+IMDb,Logistic Regression,perfect,5.512238832689119,positive
+IMDb,Logistic Regression,excellent,6.907270755746888,positive
+IMDb,Logistic Regression,great,7.984976693503792,positive
+IMDb,Logistic Regression,worst,-9.377104346687798,negative
+IMDb,Logistic Regression,bad,-8.738113673550785,negative
+IMDb,Logistic Regression,awful,-7.780525001293606,negative
+IMDb,Logistic Regression,waste,-6.728188624998614,negative
+IMDb,Logistic Regression,boring,-6.449020054995564,negative
+IMDb,Logistic Regression,poor,-5.875830888016011,negative
+IMDb,Logistic Regression,terrible,-5.853043550889731,negative
+IMDb,Logistic Regression,nothing,-5.432122579070437,negative
+IMDb,Logistic Regression,dull,-4.9418345978573095,negative
+IMDb,Logistic Regression,horrible,-4.884608534903294,negative
+IMDb,Logistic Regression,worse,-4.820684832125708,negative
+IMDb,Logistic Regression,stupid,-4.77192007548704,negative
+IMDb,Logistic Regression,poorly,-4.736934360284331,negative
+IMDb,Logistic Regression,fails,-4.561338824487574,negative
+IMDb,Logistic Regression,disappointing,-4.3684882856545935,negative
+IMDb,Logistic Regression,unfortunately,-4.360084936282139,negative
+IMDb,Logistic Regression,no,-4.266544964241131,negative
+IMDb,Logistic Regression,instead,-4.233947482679038,negative
+IMDb,Logistic Regression,ridiculous,-4.119521832266524,negative
+IMDb,Logistic Regression,annoying,-4.085966108451072,negative

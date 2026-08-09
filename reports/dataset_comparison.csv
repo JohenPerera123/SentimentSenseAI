@@ -1,0 +1,3 @@
+Dataset,Total_Rows,Classes,Missing_Values,Duplicate_Rate_Pct,Avg_Char_Length,Median_Char_Length,Avg_Word_Count,Median_Word_Count
+IMDb,50000,2,0,0.84,1309.43,970.0,231.16,173.0
+Twitter (50k sample),50000,2,0,0.2,73.97,69.0,13.15,12.0
